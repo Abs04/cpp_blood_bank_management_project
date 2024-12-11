@@ -3,6 +3,7 @@
  * Group Name      : Flipflop.
  * Project Language: C++.
  * Coding Paradigm : OOP.
+ * Author          : Abu Bakor Siddik(Abs)
  */
 
 #include <iostream>
